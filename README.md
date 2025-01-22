@@ -32,3 +32,21 @@ Onde pode me encontrar:
     <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/instagram.png?raw=true">
   </a>
 </div>
+
+##
+
+## Portfólio e Principais Projetos
+
+### AdventureWorks Dashboard
+
+<img align="left" width="500" src="https://github.com/NatanaelSanto/AdventureWorksPortflio/blob/main/Imagens/Tela%20Principal.PNG?raw=true">
+Projeto desenvolvido para análise e entendimento dos dados da empresa AdventureWorks, utlizando linguagem SQL para consulta ao banco de dados.
+Principais desafios: <br>
+- Desenvolver consultas utilizando linguagem SQL.<br>
+- Estatística descritiva com as principais características da base de dados AdventureWorks.<br>
+- Explorar a base dados e trazer fatos que façam sentido para a empresa.
+<br>
+<br>
+<a href="https://github.com/NatanaelSanto/AdventureWorksPortflio/tree/main" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+<br>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZGQzOGZiY2MtYjAxYy00MDQ2LTk2YTgtOGEyZTg3MDRlMDc4IiwidCI6ImVlN2FlYzQwLTg1NGUtNDVhYS1hOTc5LTAyMDViNGU3MjcyYSJ9">Clique aqui</a> e acesse o a solução desenvolvida para a empresa AdventureWorks.
